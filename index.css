@@ -1,0 +1,14 @@
+#number{
+    font-size : 20vw;
+    text-align : center;
+    border : medium solid #333333;
+    margin : 10px 0px 10px 0px;
+}
+
+.btn-row{
+    margin : 10px 0px 10px 0px;
+}
+
+#result_toast{
+    margin : 10px 0px 10px 0px;
+}
